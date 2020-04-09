@@ -2,6 +2,8 @@ package Application.Behavior;
 
 import Application.Type.Point;
 
+import java.awt.*;
+
 public interface Shape {
 
     public void mouv(double x, double y);
@@ -16,7 +18,7 @@ public interface Shape {
     
     public void display();
     
-    public void color(Color color);
+    public void changeColor(Color color);
     
     public void reduce(int num);
     
