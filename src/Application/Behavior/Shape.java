@@ -1,6 +1,6 @@
-package Application.Behavior;
+package src.Application.Behavior;
 
-import Application.Type.Point;
+import src.Application.Type.Point;
 
 import java.awt.*;
 

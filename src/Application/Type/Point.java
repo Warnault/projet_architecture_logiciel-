@@ -1,6 +1,4 @@
-package Application.Type;
-
-import java.util.Objects;
+package src.Application.Type;
 
 public class Point {
 
